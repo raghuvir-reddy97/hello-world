@@ -1,2 +1,3 @@
 # hello-world
-Ideas
+
+Hello all, welcome to my GitHub
